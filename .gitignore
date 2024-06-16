@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 *RProj
+_publish.yml
 
 /.quarto/
+/_site
