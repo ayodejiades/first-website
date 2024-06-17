@@ -2,4 +2,9 @@
 title: "About"
 ---
 
-Ayodeji Adesegun
+My name is **Ayodeji Adesegun**, and I am from **Nigeria**.
+
+
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
+
